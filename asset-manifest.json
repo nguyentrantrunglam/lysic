@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lysic/static/css/main.e10f8332.css",
-    "main.js": "/lysic/static/js/main.7f2877b8.js",
+    "main.css": "/lysic/static/css/main.36489492.css",
+    "main.js": "/lysic/static/js/main.17e32d1e.js",
     "static/js/787.d546d0ae.chunk.js": "/lysic/static/js/787.d546d0ae.chunk.js",
     "index.html": "/lysic/index.html",
-    "main.e10f8332.css.map": "/lysic/static/css/main.e10f8332.css.map",
-    "main.7f2877b8.js.map": "/lysic/static/js/main.7f2877b8.js.map",
+    "main.36489492.css.map": "/lysic/static/css/main.36489492.css.map",
+    "main.17e32d1e.js.map": "/lysic/static/js/main.17e32d1e.js.map",
     "787.d546d0ae.chunk.js.map": "/lysic/static/js/787.d546d0ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10f8332.css",
-    "static/js/main.7f2877b8.js"
+    "static/css/main.36489492.css",
+    "static/js/main.17e32d1e.js"
   ]
 }
